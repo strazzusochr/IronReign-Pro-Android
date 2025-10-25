@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.ironreign.app.ui.workouts.WorkoutsFragmentDirections","com.ironreign.app.ui.exercises.ExercisesFragmentDirections","com.ironreign.app.ui.pro.ProFeaturesFragmentDirections","com.ironreign.app.ui.workouts.WorkoutDetailFragmentArgs","com.ironreign.app.ui.exercises.ExerciseDetailFragmentArgs"]}]

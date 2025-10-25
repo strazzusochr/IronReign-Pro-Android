@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#1a1a1a</color>
+    <color name="brand_accent">#ff1e00</color>
+    <color name="colorPrimary">@color/brand_primary</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">@color/brand_accent</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorBackground">#121212</color>
+    <color name="colorOnBackground">#E0E0E0</color>
+    <color name="colorSurface">#1e1e1e</color>
+    <color name="colorOnSurface">#E0E0E0</color>
+    <color name="colorSurfaceVariant">#333333</color>
+    <color name="colorOnSurfaceVariant">#BDBDBD</color>
+    <color name="colorOutline">#555555</color>
+</resources>

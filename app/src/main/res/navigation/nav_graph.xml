@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <!-- Main Screens -->
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.ironreign.app.ui.dashboard.DashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+    <fragment
+        android:id="@+id/workoutsFragment"
+        android:name="com.ironreign.app.ui.workouts.WorkoutsFragment"
+        android:label="Workouts"
+        tools:layout="@layout/fragment_workouts">
+        <action
+            android:id="@+id/action_workoutsFragment_to_workoutDetailFragment"
+            app:destination="@id/workoutDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/exercisesFragment"
+        android:name="com.ironreign.app.ui.exercises.ExercisesFragment"
+        android:label="Übungen"
+        tools:layout="@layout/fragment_exercises">
+        <action
+            android:id="@+id/action_exercisesFragment_to_exerciseDetailFragment"
+            app:destination="@id/exerciseDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/progressFragment"
+        android:name="com.ironreign.app.ui.progress.ProgressFragment"
+        android:label="Fortschritt"
+        tools:layout="@layout/fragment_progress" />
+        
+    <!-- Pro Features Hub -->
+    <fragment
+        android:id="@+id/proFeaturesFragment"
+        android:name="com.ironreign.app.ui.pro.ProFeaturesFragment"
+        android:label="Pro Features"
+        tools:layout="@layout/fragment_pro_features">
+        <action android:id="@+id/action_proFeaturesFragment_to_arCoachFragment" app:destination="@id/arCoachFragment" />
+        <action android:id="@+id/action_proFeaturesFragment_to_aiPlannerFragment" app:destination="@id/aiPlannerFragment" />
+        <action android:id="@+id/action_proFeaturesFragment_to_complexAIAnalysisFragment" app:destination="@id/complexAIAnalysisFragment" />
+        <action android:id="@+id/action_proFeaturesFragment_to_oneRMCalculatorFragment" app:destination="@id/oneRMCalculatorFragment" />
+        <action android:id="@+id/action_proFeaturesFragment_to_wearablesFragment" app:destination="@id/wearablesFragment" />
+        <action android:id="@+id/action_proFeaturesFragment_to_challengeFragment" app:destination="@id/challengeFragment" />
+    </fragment>
+
+    <!-- Detail Screens -->
+    <fragment
+        android:id="@+id/workoutDetailFragment"
+        android:name="com.ironreign.app.ui.workouts.WorkoutDetailFragment"
+        android:label="Workout-Details"
+        tools:layout="@layout/fragment_workout_detail">
+        <argument android:name="workoutId" app:argType="long" />
+    </fragment>
+    <fragment
+        android:id="@+id/exerciseDetailFragment"
+        android:name="com.ironreign.app.ui.exercises.ExerciseDetailFragment"
+        android:label="Übungsdetails"
+        tools:layout="@layout/fragment_exercise_detail">
+        <argument android:name="exerciseId" app:argType="long" />
+    </fragment>
+
+    <!-- Pro Feature Detail Screens -->
+    <fragment android:id="@+id/arCoachFragment" android:name="com.ironreign.app.ui.pro.ARCoachFragment" android:label="AR-Coach" tools:layout="@layout/fragment_ar_coach" />
+    <fragment android:id="@+id/aiPlannerFragment" android:name="com.ironreign.app.ui.pro.AIPlannerFragment" android:label="KI-Planer" tools:layout="@layout/fragment_ai_planner" />
+    <fragment android:id="@+id/complexAIAnalysisFragment" android:name="com.ironreign.app.ui.pro.ComplexAIAnalysisFragment" android:label="KI-Analyse" tools:layout="@layout/fragment_complex_ai_analysis" />
+    <fragment android:id="@+id/oneRMCalculatorFragment" android:name="com.ironreign.app.ui.pro.OneRMCalculatorFragment" android:label="1RM-Rechner" tools:layout="@layout/fragment_one_rm_calculator" />
+    <fragment android:id="@+id/wearablesFragment" android:name="com.ironreign.app.ui.pro.WearablesFragment" android:label="Wearables" tools:layout="@layout/fragment_wearables" />
+    <fragment android:id="@+id/challengeFragment" android:name="com.ironreign.app.ui.pro.ChallengeFragment" android:label="Challenge" tools:layout="@layout/fragment_challenge" />
+</navigation>

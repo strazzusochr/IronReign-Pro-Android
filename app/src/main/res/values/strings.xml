@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IronReign</string>
+
+    <!-- Navigation -->
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_workouts">Workouts</string>
+    <string name="title_exercises">Übungen</string>
+    <string name="title_progress">Fortschritt</string>
+    <string name="title_pro_features">Pro</string>
+
+    <!-- Generic UI -->
+    <string name="add_exercise">Übung hinzufügen</string>
+    <string name="add_workout">Workout hinzufügen</string>
+    <string name="exercise_name">Name der Übung</string>
+    <string name="exercise_description">Beschreibung</string>
+    <string name="save">Speichern</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="no_data">Keine Daten verfügbar</string>
+    <string name="no_chart_data">Nicht genügend Daten für eine Grafik.</string>
+    
+    <!-- Pro Features Menu -->
+    <string name="start_ar_coach">AR-Coach</string>
+    <string name="ar_coach_desc">Visuelles Feedback zur Übungsausführung in Echtzeit.</string>
+    <string name="start_ai_planner">KI-Planer</string>
+    <string name="ai_planner_desc">Generiert einen wöchentlichen Trainingsplan.</string>
+    <string name="start_complex_ai_analysis">KI-Analyse</string>
+    <string name="complex_ai_desc">Zeigt Gesamtvolumen und geschätzten 1RM pro Übung.</string>
+    <string name="start_one_rm_calculator">1RM-Rechner</string>
+    <string name="one_rm_desc">Berechnet dein geschätztes Einer-Wiederholungs-Maximum.</string>
+    <string name="start_wearables">Wearables</string>
+    <string name="wearables_desc">Verbindet sich mit deinem Schrittzähler.</string>
+    <string name="start_challenge">PainZone Challenge</string>
+    <string name="challenge_desc">30-Sekunden-Intensitäts-Challenge.</string>
+
+    <!-- 1RM Calculator -->
+    <string name="weight_kg">Gewicht (kg)</string>
+    <string name="reps">Wiederholungen</string>
+    <string name="calculate">Berechnen</string>
+    <string name="one_rm_result">Geschätzter 1RM: %.1f kg</string>
+
+    <!-- Challenge -->
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="challenge_completed">Challenge abgeschlossen!</string>
+
+    <!-- Wearables -->
+    <string name="step_count">Schritte: %d</string>
+    <string name="start_tracking">Tracking starten</string>
+    <string name="stop_tracking">Tracking stoppen</string>
+    <string name="wearables_not_available">Schrittzähler-Sensor nicht verfügbar.</string>
+    
+    <!-- Complex AI Analysis -->
+    <string name="training_volume">Gesamtvolumen: %.1f kg</string>
+    <string name="estimated_one_rm">Geschätzter 1RM: %.1f kg</string>
+
+    <!-- Settings -->
+    <string name="settings_disclaimer">Fortgeschrittene Funktionen (KI, AR, Cloud) sind als Stubs implementiert und dienen der Demonstration der App-Architektur.</string>
+
+</resources>

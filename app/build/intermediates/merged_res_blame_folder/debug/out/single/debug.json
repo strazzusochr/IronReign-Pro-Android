@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.ironreign.app-merged_res-57:/drawable_ic_exercises.xml.flat",
+        "source": "com.ironreign.app-main-59:/drawable/ic_exercises.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_item_food_entry.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/item_food_entry.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.ironreign.app-main-59:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_workouts.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_workouts.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.ironreign.app-main-59:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_item_training_day.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/item_training_day.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/drawable_ic_remove.xml.flat",
+        "source": "com.ironreign.app-main-59:/drawable/ic_remove.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/drawable_ic_delete.xml.flat",
+        "source": "com.ironreign.app-main-59:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_pro_features.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_pro_features.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_challenge.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_challenge.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/drawable_ic_add.xml.flat",
+        "source": "com.ironreign.app-main-59:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_exercise_detail.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_exercise_detail.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.ironreign.app-main-59:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_complex_ai_analysis.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_complex_ai_analysis.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_dashboard.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_progress.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_progress.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_activity_main.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_dialog_add_exercise.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/dialog_add_exercise.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/menu_workouts_menu.xml.flat",
+        "source": "com.ironreign.app-main-59:/menu/workouts_menu.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_dialog_add_workout.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/dialog_add_workout.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_one_rm_calculator.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_one_rm_calculator.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.ironreign.app-main-59:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/drawable_ic_dashboard.xml.flat",
+        "source": "com.ironreign.app-main-59:/drawable/ic_dashboard.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_dialog_add_set.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/dialog_add_set.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_ar_coach.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_ar_coach.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_item_exercise_stats.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/item_exercise_stats.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/navigation_nav_graph.xml.flat",
+        "source": "com.ironreign.app-main-59:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/drawable_ic_pro_features.xml.flat",
+        "source": "com.ironreign.app-main-59:/drawable/ic_pro_features.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_item_exercise.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/item_exercise.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/drawable_ic_progress.xml.flat",
+        "source": "com.ironreign.app-main-59:/drawable/ic_progress.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_wearables.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_wearables.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.ironreign.app-main-59:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_workout_detail.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_workout_detail.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_nutrition.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_nutrition.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/drawable_ic_workouts.xml.flat",
+        "source": "com.ironreign.app-main-59:/drawable/ic_workouts.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_item_workout_set.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/item_workout_set.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_exercises.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_exercises.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_settings.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_fragment_ai_planner.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/fragment_ai_planner.xml"
+    },
+    {
+        "merged": "com.ironreign.app-merged_res-57:/layout_item_workout.xml.flat",
+        "source": "com.ironreign.app-main-59:/layout/item_workout.xml"
+    }
+]

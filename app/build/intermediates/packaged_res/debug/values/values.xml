@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_accent">#ff1e00</color>
+    <color name="brand_primary">#1a1a1a</color>
+    <color name="colorBackground">#121212</color>
+    <color name="colorOnBackground">#E0E0E0</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#FFFFFF</color>
+    <color name="colorOnSurface">#E0E0E0</color>
+    <color name="colorOnSurfaceVariant">#BDBDBD</color>
+    <color name="colorOutline">#555555</color>
+    <color name="colorPrimary">@color/brand_primary</color>
+    <color name="colorSecondary">@color/brand_accent</color>
+    <color name="colorSurface">#1e1e1e</color>
+    <color name="colorSurfaceVariant">#333333</color>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="add_exercise">Übung hinzufügen</string>
+    <string name="add_workout">Workout hinzufügen</string>
+    <string name="ai_planner_desc">Generiert einen wöchentlichen Trainingsplan.</string>
+    <string name="app_name">IronReign</string>
+    <string name="ar_coach_desc">Visuelles Feedback zur Übungsausführung in Echtzeit.</string>
+    <string name="calculate">Berechnen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="challenge_completed">Challenge abgeschlossen!</string>
+    <string name="challenge_desc">30-Sekunden-Intensitäts-Challenge.</string>
+    <string name="complex_ai_desc">Zeigt Gesamtvolumen und geschätzten 1RM pro Übung.</string>
+    <string name="estimated_one_rm">Geschätzter 1RM: %.1f kg</string>
+    <string name="exercise_description">Beschreibung</string>
+    <string name="exercise_name">Name der Übung</string>
+    <string name="no_chart_data">Nicht genügend Daten für eine Grafik.</string>
+    <string name="no_data">Keine Daten verfügbar</string>
+    <string name="one_rm_desc">Berechnet dein geschätztes Einer-Wiederholungs-Maximum.</string>
+    <string name="one_rm_result">Geschätzter 1RM: %.1f kg</string>
+    <string name="reps">Wiederholungen</string>
+    <string name="save">Speichern</string>
+    <string name="settings_disclaimer">Fortgeschrittene Funktionen (KI, AR, Cloud) sind als Stubs implementiert und dienen der Demonstration der App-Architektur.</string>
+    <string name="start">Start</string>
+    <string name="start_ai_planner">KI-Planer</string>
+    <string name="start_ar_coach">AR-Coach</string>
+    <string name="start_challenge">PainZone Challenge</string>
+    <string name="start_complex_ai_analysis">KI-Analyse</string>
+    <string name="start_one_rm_calculator">1RM-Rechner</string>
+    <string name="start_tracking">Tracking starten</string>
+    <string name="start_wearables">Wearables</string>
+    <string name="step_count">Schritte: %d</string>
+    <string name="stop">Stop</string>
+    <string name="stop_tracking">Tracking stoppen</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_exercises">Übungen</string>
+    <string name="title_pro_features">Pro</string>
+    <string name="title_progress">Fortschritt</string>
+    <string name="title_workouts">Workouts</string>
+    <string name="training_volume">Gesamtvolumen: %.1f kg</string>
+    <string name="wearables_desc">Verbindet sich mit deinem Schrittzähler.</string>
+    <string name="wearables_not_available">Schrittzähler-Sensor nicht verfügbar.</string>
+    <string name="weight_kg">Gewicht (kg)</string>
+    <style name="Theme.IronReign.Dark" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorSurfaceVariant">@color/colorSurfaceVariant</item>
+        <item name="colorOnSurfaceVariant">@color/colorOnSurfaceVariant</item>
+        <item name="colorOutline">@color/colorOutline</item>
+        
+        
+        <item name="android:statusBarColor">@color/colorSurface</item>
+        <item name="android:navigationBarColor">@color/colorSurface</item>
+    </style>
+</resources>
